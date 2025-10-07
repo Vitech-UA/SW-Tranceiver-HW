@@ -4,7 +4,7 @@
 
 | Вид | Зображення |
 |-----|------------|
-| **Фронтальний вигляд плати** | ![Front view](https://github.com/Vitech-UA/SW-Tranceiver-HW/raw/main/MEDIA/Front.jpg) |
+| **Фронтальний вигляд** | ![Front view](https://github.com/Vitech-UA/SW-Tranceiver-HW/raw/main/MEDIA/Front.jpg) |
 | **Процес монтажу (1)** | ![Assembly 1](https://github.com/Vitech-UA/SW-Tranceiver-HW/raw/main/MEDIA/photo_2025-10-07_23-35-20.jpg) |
 | **Процес монтажу (2)** | ![Assembly 2](https://github.com/Vitech-UA/SW-Tranceiver-HW/raw/main/MEDIA/photo_2025-10-07_23-35-20%20(2).jpg) |
 
